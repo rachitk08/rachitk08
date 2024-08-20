@@ -1,4 +1,4 @@
-## Hi there 👋
+## Student at UConn's MSDS Program
 
 <!--
 **rachitk08/rachitk08** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
